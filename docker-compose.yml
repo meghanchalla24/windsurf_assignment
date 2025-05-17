@@ -1,0 +1,24 @@
+version: '3.8'
+services:
+  resume_extractor:
+    build: .
+    container_name: resume_extractor_app
+    working_dir: /app/Resume_extractor
+    command: streamlit run langchain_resume_extractor.py --server.port=8501 --server.address=0.0.0.0
+    volumes:
+      - ./Resume_extractor:/app/Resume_extractor
+    ports:
+      - "8501:8501"
+    environment:
+      - PYTHONUNBUFFERED=1
+  sql_generator:
+    build: .
+    container_name: sql_generator_app
+    working_dir: /app/SQL Generator
+    command: streamlit run nlp_to_sql.py --server.port=8502 --server.address=0.0.0.0
+    volumes:
+      - ./SQL Generator:/app/SQL Generator
+    ports:
+      - "8502:8502"
+    environment:
+      - PYTHONUNBUFFERED=1

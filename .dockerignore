@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+*.db
+*.ipynb
+windsurf_sql_env/
+uploaded_resumes/*.pdf

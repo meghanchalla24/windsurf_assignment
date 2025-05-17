@@ -1,0 +1,158 @@
+[
+  {
+    "name": "Meghan Challa",
+    "email": "f20211708@hyderabad.bits-pilani.ac.in",
+    "phone": "9959408048",
+    "skills": [
+      "Node.js",
+      "HTML",
+      "JavaScript",
+      "Large Language Models",
+      "CSS",
+      "Data Analysis",
+      "DSA",
+      "Java",
+      "Langchain",
+      "C Programming",
+      "React.js",
+      "Scikit-Learn",
+      "Python",
+      "Prompt Engineering",
+      "SQL",
+      "Swing",
+      "Generative Artificial Intelligence",
+      "Spring Boot",
+      "MongoDB",
+      "Data Science"
+    ],
+    "work_experience": [
+      {
+        "Designation": "AI/ML, Data Scientist",
+        "Company": "Genpact",
+        "Duration": "Jul 2024 - Dec 2024",
+        "Duration_years": 0,
+        "Duration_months": 6,
+        "Projects": [
+          {
+            "Title": "Explainable Question Answering System For Institute Guidelines and Regulations",
+            "Description": "Developed a hybrid explainable question-answering system by integrating sparse (BM25) and dense (FAISS with MiniLM embeddings) retrieval methods, followed by cross-encoder reranking (FlashRank) to improve semantic relevance and transparency in querying BITS Pilani institutional regulations."
+          },
+          {
+            "Title": "Human-in-the-Loop Pipeline: Refining Prompt Tuning with Human Feedback Integration",
+            "Description": "Developed an interactive Human-in-the-Loop (HITL) pipeline to enhance entity extraction accuracy by using human feedback for prompt tuning as few shot examples."
+          },
+          {
+            "Title": "Analyzing and Mitigating Prompt Injection Techniques in AI Language Models",
+            "Description": "Researched and classified various prompt injection techniques in AI language models, thoroughly analyzing their structural patterns, intended effects, and real-world impacts; systematically identified security vulnerabilities and thoughtfully proposed mitigation strategies to enhance overall model robustness."
+          },
+          {
+            "Title": "Automating Business Vehicle Insurance Underwriting with DSPy",
+            "Description": "Built a robust DSPy framework to automate insurance approval by calculating the HNO equivalent, designed a custom semantic evaluation metric for accurate risk assessment, and compared DSPy’s performance with LangChain and API methods, clearly highlighting key strengths and limitations."
+          },
+          {
+            "Title": "Backend Development for Social Media Platform (Inspired by Twitter)",
+            "Description": "Developed a Spring Boot-based backend for a social media platform, designing and implementing RESTful APIs for user authentication, post and comment management, and profile details, while efficiently integrating an H2 database to ensure smooth data processing and secure storage and scalability."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "MEGHAN CHALLA",
+    "email": "f20211708@hyderabad.bits-pilani.ac.in",
+    "phone": "9959408048",
+    "skills": [
+      "Generative Artificial Intelligence",
+      "Python",
+      "Large Language Models",
+      "Prompt Engineering",
+      "Data Science",
+      "Langchain",
+      "SQL",
+      "Spring Boot",
+      "Java",
+      "CSS",
+      "C Programming",
+      "HTML",
+      "Swing",
+      "Assembly Language",
+      "JavaScript",
+      "DSA",
+      "MongoDB",
+      "React.js",
+      "Node.js"
+    ],
+    "work_experience": [
+      {
+        "Designation": "AI/ML, Data Scientist",
+        "Company": "Genpact",
+        "Duration": "Jul 2024 - Dec 2024",
+        "Duration_years": 0,
+        "Duration_months": 6,
+        "Projects": [
+          {
+            "Title": "Explainable Question Answering System For Institute Guidelines and Regulations",
+            "Description": "A hybrid explainable question-answering system was developed by integrating sparse (BM25) and dense (FAISS with MiniLM embeddings) retrieval methods, followed by cross-encoder reranking (FlashRank) to improve semantic relevance and transparency in querying BITS Pilani institutional regulations."
+          },
+          {
+            "Title": "Human-in-the-Loop Pipeline: Refining Prompt Tuning with Human Feedback Integration",
+            "Description": "Developed an interactive Human-in-the-Loop (HITL) pipeline to enhance entity extraction accuracy by using human feedback for prompt tuning as few shot examples."
+          },
+          {
+            "Title": "Analyzing and Mitigating Prompt Injection Techniques in AI Language Models",
+            "Description": "Researched and classified different prompt injection techniques in AI language models, examining their structural variations and intended effects, while evaluating their real-world impact through practical scenarios to identify potential vulnerabilities, security risks, along with mitigation strategies."
+          },
+          {
+            "Title": "Automating Business Vehicle Insurance Underwriting with DSPy",
+            "Description": "Built a DSPy framework to automate insurance approval by calculating the HNO (Hired and Non-Owned) number equivalent."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Rahul Sharma",
+    "email": "rahul.sharma@example.com",
+    "phone": "+91-9876543210",
+    "skills": [
+      "SQL",
+      "Python",
+      "Data Visualization",
+      "Excel",
+      "Tableau",
+      "Power BI",
+      "Statistical Analysis",
+      "A/B Testing",
+      "ETL Pipelines",
+      "Machine Learning Basics"
+    ],
+    "work_experience": [
+      {
+        "Designation": "Data Analyst",
+        "Company": "Infosys Ltd.",
+        "Duration": "Jan 2022 - Present",
+        "Duration_years": null,
+        "Duration_months": null,
+        "Projects": [
+          {
+            "Title": "Data Analysis and Visualization",
+            "Description": "Analyzed large datasets using Python and SQL to uncover trends, resulting in a 15% increase in customer retention. Developed interactive dashboards using Power BI for executive reporting, reducing manual reporting time by 40%."
+          }
+        ]
+      },
+      {
+        "Designation": "Business Intelligence Intern",
+        "Company": "Tata Consultancy Services (TCS)",
+        "Duration": "Jun 2020 - Dec 2021",
+        "Duration_years": 1,
+        "Duration_months": 6,
+        "Projects": [
+          {
+            "Title": "Dashboard Development and A/B Testing",
+            "Description": "Built Tableau dashboards to monitor campaign performance and sales funnel metrics. Conducted A/B testing on marketing initiatives and analyzed results to optimize strategies."
+          }
+        ]
+      }
+    ]
+  }
+]

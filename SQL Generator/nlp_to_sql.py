@@ -11,8 +11,8 @@ from langchain.agents.agent_types import AgentType
 from langchain.schema import OutputParserException
 from langchain.tools import Tool
 
-# Set Together API key securely (for demo only; move to env var in prod!)
-os.environ["TOGETHER_API_KEY"] = "ce142861c7d89ac010c16d12d7da1ca855a95f7cb4bc405d799c8dcca06a40b5"
+
+os.environ["TOGETHER_API_KEY"] = "YOUR API KEY"
 
 # Initialize LLM
 llm = Together(

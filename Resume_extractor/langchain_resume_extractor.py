@@ -21,7 +21,7 @@ def extract_first_json_object(text):
                 return text[start:i+1]
     return None
 
-os.environ["TOGETHER_API_KEY"] = "ce142861c7d89ac010c16d12d7da1ca855a95f7cb4bc405d799c8dcca06a40b5"
+os.environ["TOGETHER_API_KEY"] = "YOUR API KEY"
 
 llm = Together(
     model="meta-llama/Llama-4-Scout-17B-16E-Instruct",
